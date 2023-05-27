@@ -1,0 +1,21 @@
+*{
+  
+  margin: 0;
+  
+  
+  text-decoration: none;
+  
+  padding: 0;
+}
+p, h1, div{
+  color: white;
+}
+.category-btn{
+  border-radius: 10px;
+  margin: 10px;
+  border: none;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
